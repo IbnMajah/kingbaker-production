@@ -9,7 +9,7 @@ A demo application to illustrate how Inertia.js works.
 Clone the repo locally:
 
 ```sh
-https://github.com/IbnMajah/kingbaker-production.git production
+git clone https://github.com/IbnMajah/kingbaker-production.git production
 cd production
 ```
 
